@@ -1,6 +1,10 @@
+<span style="display:block;text-align:center">
+
 ### Hi there 👋 , I'm Abdallah abu sedo
 
-![Developer activity](https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif)
+</span>
+
+<span style="display:block;text-align:center">![Developer activity](https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif)</span>
 
 ## I'm a Student at Cairo university - Computer Engineering
 
@@ -38,13 +42,15 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 
-
 <br />
 <br />
 <br />
 
-![giphy](https://user-images.githubusercontent.com/42722816/90063621-f38fce00-dce9-11ea-8d23-ee752e0a5b2e.gif)
+<span style="display:block;text-align:center">![giphy](https://user-images.githubusercontent.com/42722816/90063621-f38fce00-dce9-11ea-8d23-ee752e0a5b2e.gif)</span>
 <br />
+
+<span style="display:block;text-align:center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=abdallahabusedo&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahabusedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</span>
