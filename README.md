@@ -23,8 +23,6 @@
 
 </div>
 
-- 🔭 I’m currently working on Instagram clone [InstaSedo](https://github.com/abdallahabusedo/instagram_mimic) and i will give a JS course [LearnReact](https://github.com/abdallahabusedo/LearnReact).
-
 - 🌱 I’m currently learning React js .
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help anyone ask me a question
