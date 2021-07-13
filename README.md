@@ -71,4 +71,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahabusedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
+  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 </div>
