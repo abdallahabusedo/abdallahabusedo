@@ -13,17 +13,11 @@
 <span style="display:block;text-align:center">![Developer activity](https://user-images.githubusercontent.com/42722816/90060765-7febc200-dce5-11ea-938b-75d2a7816ca3.gif)</span>
 
 
-
-## I'm a Student at Cairo university - Computer Engineering
-
-
-<div align="center">
-
-![Most Active GitHub User Rank](https://enwdccqjgyodvua.m.pipedream.net)
-![](https://komarev.com/ghpvc/?username=abdallahabusedo)
-
 </div>
+
+## I'm a Computer Engineering
   
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdallah-abu-sedo-63958a185/)
